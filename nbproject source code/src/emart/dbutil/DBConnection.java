@@ -16,7 +16,7 @@ public class DBConnection {
         try {
             // Load Oracle Driver
             Class.forName("com.mysql.cj.jdbc.Driver");
-             conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/emart","root","aswin@123");
+             conn = DriverManager.getConnection("enter your db URL","enter your db username","enter your db password");
            // JOptionPane.showMessageDialog(null, "Connection opned successfully!","Success", JOptionPane.INFORMATION_MESSAGE);
         }
         catch (ClassNotFoundException ex) 
