@@ -104,7 +104,7 @@ role-based access control.
 
 ---
 
-## 📌 Use Cases
+##  Use Cases
 
 - Retail inventory management
 - Billing system for small businesses
