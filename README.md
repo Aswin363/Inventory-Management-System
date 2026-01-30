@@ -6,7 +6,7 @@ and database-driven operations.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This application is designed to manage inventory, employees, receptionists,
 and billing operations for a small to medium-scale business.
@@ -16,7 +16,7 @@ by the Receptionist module.
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 - Java
 - Swing / AWT
@@ -27,7 +27,7 @@ by the Receptionist module.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Splash screen on application startup
 - Secure login for Admin and Receptionist
@@ -41,7 +41,7 @@ by the Receptionist module.
 
 ---
 
-## 🧱 System Architecture (DAO–POJO)
+##  System Architecture (DAO–POJO)
 
 The project follows the DAO–POJO design pattern to maintain a clean separation
 of concerns.
@@ -54,7 +54,7 @@ This architecture improves maintainability, scalability, and code readability.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 src/  
 ├── dao/        → Database access classes  
@@ -69,7 +69,7 @@ nbproject/
 
 ---
 
-## 🗄 Database Setup
+##  Database Setup
 
 1. Create a MySQL database named `inventory_db`
 2. Import `database/inventory.sql`
@@ -77,7 +77,7 @@ nbproject/
 
 ---
 
-## ▶ Application Flow
+##  Application Flow
 
 1. Splash Screen
 2. Login Screen
@@ -87,7 +87,7 @@ nbproject/
 
 ---
 
-## ▶ How to Run
+##  How to Run
 
 1. Open the project in NetBeans IDE
 2. Configure MySQL database connection
@@ -96,7 +96,7 @@ nbproject/
 
 ---
 
-## 🎓 Academic & Industry Note
+##  Academic & Industry Note
 
 This project was initially developed for academic submission and later refined
 to follow industry-level coding practices including DAO–POJO architecture and
